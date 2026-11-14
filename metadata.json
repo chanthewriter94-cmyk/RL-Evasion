@@ -1,0 +1,6 @@
+{
+  "name": "RL Evasion Baseline",
+  "description": "Real-time neuroevolution evasion simulation with live neural network topology and activation visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
